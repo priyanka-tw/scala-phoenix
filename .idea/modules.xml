@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalawithphoenix.iml" filepath="$PROJECT_DIR$/.idea/modules/scalawithphoenix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalawithphoenix-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalawithphoenix-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-phoenix.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-phoenix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-phoenix-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-phoenix-build.iml" />
     </modules>
   </component>
 </project>
